@@ -1,5 +1,6 @@
 **Anna Nikolaenko**
 Detail-oriented Software QA Engineer with experience in both Manual and Automation testing across Mobile (iOS/Android) and Web applications. Proficient in building automated test coverage using JavaScript-based frameworks such as Playwright. Proficient in the full Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Expertise in executing Functional, UI, Smoke, Regression testing and API validation, with exposure to CI/CD workflows. 
+
 **Skills**
 
 Platforms: 		macOS, Windows, iOS, Android
